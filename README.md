@@ -140,7 +140,8 @@ The assistant produces a structured analysis covering the incident summary, prob
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/ipsyy/ai-devops-incident-assistant.gitcd ai-devops-incident-assistant-v2
+git clone https://github.com/ipsyy/ai-devops-incident-assistant.git
+cd ai-devops-incident-assistant
 ```
 
 ### 2. Create a virtual environment
