@@ -199,6 +199,15 @@ The application also provides a **Run Evaluation Tests** button in the Streamlit
 ## Project structure
 
 ```text
-ai-devops-incident-assistant-v2/
-│
-├── app.py
+ai-devops-incident-assistant/
+|
++-- app.py
++-- evaluator.py
++-- guardrails.py
++-- llm_client.py
++-- output_guardrails.py
++-- requirements.txt
++-- sample_data.py
++-- README.md
++-- .gitignore
+```
